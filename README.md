@@ -1,2 +1,2 @@
 # hello-world
-Just the FIRST REPOSITORY EVER ON GITHUB...for me.
+Just the first repository ever on Github...for me.
